@@ -72,9 +72,9 @@ always: The estimated share of people in this county who would say always
 
 * Many of the top correlated terms refer to behaviorial symptoms instead of more concrete symptoms. Terms like dysphoria, confusion, depression, anxiety.
 
-   ![](https://git.generalassemb.ly/smohan04/Project-5/blob/master/images/percentages.png)
+   ![](https://github.com/smohan04/Covid-Case-Count/tree/main/images/percentages.png)
    
-   ![](https://git.generalassemb.ly/smohan04/Project-5/blob/master/images/Covid-19_Case_Count_Analysis.jpg)
+   ![](https://github.com/smohan04/Covid-Case-Count/tree/main/images/Covid-19_Case_Count_Analysis.jpg)
 
 ### Results
 
